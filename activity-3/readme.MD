@@ -1,4 +1,4 @@
-# Activity 3: Data Documentation and Publishing
+# Activity 3: Creating Metadata with dataspice
 
 ## Project Description
 This project demonstrates how to document and publish a dataset using the `dataspice` package in R. The dataset contains climate data for 2023, including temperature, precipitation, and wind speed. The project includes the following steps:
